@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "First post.",
+      "body": "Fiecărei persoane cel puțin o dată în viață i se oferă șansa de a-și schimba radical viața, însă majoritatea nici nu o observă și merg mai departe de parcă nimic nu s-ar fi întâmplat.",
+      "author": "Gaspar",
+      "id": 1
+    },
+    {
+      "title": "Second post.",
+      "body": "Nu vă doriţi sănătate și belșug, dar doriţi-vă să vă surâdă mereu norocul. Pe Titanic toți au fost sănătoși și bogați, dar au rămas în viață doar norocoșii.",
+      "author": "Marian",
+      "id": 2
+    },
+    {
+      "title": "Third Post",
+      "body": "Întreaga istorie a lumii se poate rezumă la aceasta: atunci când naţiunile sunt puternice, ele nu sunt întotdeauna juste, iar când vor să fie juste, nu mai sunt puternice.\n\n",
+      "author": "Marian",
+      "id": 3
+    },
+    {
+      "title": "Forth post",
+      "body": " Dacă omori ucigaşul, numărul ucigaşilor nu va scădea.\n\n",
+      "author": "Gaspar",
+      "id": 4
+    },
+    {
+      "title": "Fifth post",
+      "body": "Scopul Parlamentului este să înlocuiască luptele cu pumnii cu cele verbale.",
+      "author": "Marian",
+      "id": 5
+    }
+  ]
+}
